@@ -1,0 +1,6 @@
+Credentials cache: API:19736
+        Principal: lfranco-@42.US.ORG
+
+		  Issued                Expires               Principal
+Jan 10 23:01:54 2017  Jan 11 09:01:54 2017  krbtgt/42.US.ORG@42.US.ORG
+Jan 10 23:03:59 2017  Jan 11 09:01:54 2017  host/vgs-fn1.42.us.org@42.US.ORG
